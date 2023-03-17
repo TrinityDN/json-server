@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url("../img/fundo.jpg");
+    font-weight: bold;
+}
+
+h1, h2, h3{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    padding: 5%;
+    font-size: 270%;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+#nome1, #nome2, #nome3, #nome4, #nome5, #nome6, #nome7, #nome8, #nome9{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+#coluna-1, #coluna-2, #coluna-3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10%;
+}
+
+img{
+    border-radius: 5%;
+    margin-top: 5%;
+    border: 30px solid rgba(185, 186, 199, 0.137);
+    transition: 200ms;
+}
+
+footer{
+    height: 90px;
+}
+
+img:hover{
+    transition: 400ms;
+    width: 305px;
+
+}

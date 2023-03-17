@@ -1,0 +1,62 @@
+{
+    "usuarios": [
+        {
+            "nome1": "Harvey Specter",
+            "profissao": "Desenvolvedor Sênior",
+            "imagem": "<img src='img/harveyy.jpg' width='300px'>",
+            "idade": 34
+        },
+        {
+            "nome2": "Louis Litt",
+            "profissao": "Desenvolvedor Pleno",
+            "imagem": "<img src='img/louis.webp' width='300px'>",
+            "idade": 37
+        },
+        {
+            "nome3": "Mike Ross",
+            "profissao": "Desenvolvedor Júnior",
+            "imagem": "<img src='img/mike.png' width='300px'>",
+            "idade": 26
+        }
+    ],
+    "usuarias": [
+        {
+            "nome4": "Donna Paulsen",
+            "profissao": "Desenvolvedora Sênior",
+            "imagem": "<img src='img/donna.jpg' width='300px'>",
+            "idade": 25
+        },
+        {
+            "nome5": "Rachel Zane",
+            "profissao": "Desenvolvedora Pleno",
+            "imagem": "<img src='img/rachel.jpg' width='300px'>",
+            "idade": 39
+        },
+        {
+            "nome6": "Danna Scott",
+            "profissao": "Desenvolvedora Júnior",
+            "imagem": "<img src='img/danna.png' width='300px'>",
+            "idade": 30
+        }
+    ],
+    "figurantes": [
+        {
+            "nome7": "Jessica Pearson",
+            "profissao": "Desenvolvedora Sênior",
+            "imagem": "<img src='img/jessica.webp' width='300px'>",
+            "idade": 40
+        },
+        {
+            "nome8": "Trevor Evans",
+            "profissao": "Desenvolvedor Pleno",
+            "imagem": "<img src='img/trevor.webp' width='300px'>",
+            "idade": 31
+        },
+        {
+            "nome9": "Sheila Sazs",
+            "profissao": "Desenvolvedora Júnior",
+            "imagem": "<img src='img/sheila.webp' width='300px'>",
+            "idade": 30
+        }
+    ]
+}
